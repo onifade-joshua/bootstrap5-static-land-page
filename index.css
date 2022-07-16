@@ -1,0 +1,9 @@
+    #homeboxes:after {
+        clear: both;
+        content: "";
+        display: block;
+    }
+    
+    *body {
+        background-color: blueviolet;
+    }
